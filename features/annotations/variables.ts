@@ -45,7 +45,7 @@ let myBoolean: boolean;
 myBoolean = true;
 
 // 3) Variables whose type cannot be inferred correctly.
-let numbers = [ -10, -1, 12];
+let numbers = [ -10, -1, 12 ];
 let numberAboveZero: boolean | number = false;  // type can be boolean or number
 
 for (let i = 0; i < numbers.length; i++) {
