@@ -23,7 +23,7 @@ class Car {
 let car: Car = new Car();
 
 // Object literal
-let point: { x: number, y: number, greeting: string }= {
+let point: { x: number, y: number, greeting: string } = {
   x: 10,
   y: 20,
   greeting: "Hello"
