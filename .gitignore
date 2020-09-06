@@ -1,5 +1,5 @@
 .idea
 node_modules
-prod/maps/.cache
-prod/maps/.idea
-prod/maps/dist
+maps/.cache
+maps/.idea
+maps/dist
